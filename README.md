@@ -1,5 +1,7 @@
 # AI-desktop-assistant
 
+https://fiverr-res.cloudinary.com/images/q_auto,f_auto/gigs/135629051/original/490bd25e7db96598c58644a799331ecf151c1a4b/make-ai-desktop-voice-assitant.png
+
 This an AI desktop assistant built using Python, which is an application program that is capable of understanding natural human language, speak natural language and complete demanded electronic as well as technical tasks for the end user. Technologies used are :
 
 - pyttsx3, a a text-to-speech conversion library, which includes various TTS engines such as sapi5, nsss, eSpeak.
