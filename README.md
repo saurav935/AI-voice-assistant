@@ -1,4 +1,11 @@
  # AI desktop voice assistant using Python
+ 
+ 
+
+![1398313](https://user-images.githubusercontent.com/75733364/107473458-c5a31d80-6b96-11eb-9af6-68cf98afd3c9.jpg)
+
+
+
 
 PROJECT DESCRIPTION :
 
