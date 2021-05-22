@@ -48,7 +48,7 @@ def takecommand():                               # function to take an audio inp
 
     except Exception as e :
         print('Say that again please...')        # 'say that again' will be printed in case of improper voice
-        return 'None'  # returns none string
+        return 'None'  
     return query
 
 def sendemail(to,content):                       # function to send email
@@ -84,9 +84,8 @@ if __name__ == '__main__' :                      # execution control
             speak('okay boss')
             music_dir = 'music_dir_of_the_user'
             songs = os.listdir(music_dir)
-            #print(songs)
             os.startfile(os.path.join(music_dir,songs[0]))
-            #random.shuffle()
+
 
         elif 'time' in query :
             strtime = datetime.datetime.now().strftime('%H:%M:%S')
@@ -117,35 +116,4 @@ if __name__ == '__main__' :                      # execution control
         elif 'exit' in query:
             speak('okay boss, please call me when you need me')
             quit()
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
