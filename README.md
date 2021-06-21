@@ -14,7 +14,7 @@ An AI desktop assistant using Python, is an application program that is capable 
 TECHNOLOGIES USED ARE :
 
 - pyttsx3: 
-  a text-to-speech conversion library, which includes various TTS engines such as sapi5, nsss, eSpeak.
+  a text-to-speech conversion library, which includes various TTS engines such as sapi5, eSpeak.
 
 - speechRecognition : 
   a library for performing speech recognition, with support for several engines and APIs, some of which are CMU Sphinx, Google Speech Recognition, Google Cloud   Speech API,      Microsoft Bing Voice Recognition, Wit.ai, etc.
